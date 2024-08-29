@@ -10,3 +10,7 @@ git clone https://github.com/Anon4You/term-helper
 cd term-helper
 bash term-helper.sh
 ```
+## With Alienkrishn Repo
+```
+apt install termu-helper
+```
